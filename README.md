@@ -1,9 +1,9 @@
-    你好,我是LYZ。
-    我很感兴趣计算机的自动化和物理学。
-    我正在学习SOLIDWORKS。
-   - 💞️ I’m looking to collaborate on 网站搭建和代码编写（Python，C++orVisual Basic）
-          I can also help you make powerpoint，I am good at it.
-  - 📫 How to reach me ：QQ：2693702607
+    你好,我是莉兹826。
+    我对计算机自动化和物理感兴趣.
+    我在学习团结工程。
+    - 💞️ I’m looking to collaborate on Website building and coding.（Python，C++orVisual Basic）
+          我也可以帮你制作幻灯片,我很擅长。
+   - 📫 How to reach me ：QQ：2693702607
 
 <!---
 LYZ826/LYZ826是一个特别的骆驼存储库,因为它"可读"。
